@@ -49,7 +49,7 @@ echo -e ""
 echo -e "\e[2mvCPU: $cpucores"
 echo -e "MEMORY: $ramsize"
 echo -e "PUBLIC IP: $public_ip"
-echo -e "STORAGE:         max   used  free free"
+echo -e "STORAGE:         max   used  free used"
 echo -e "$storagetotal\e[0m"
 echo
 
