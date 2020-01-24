@@ -68,7 +68,7 @@
 &nbsp;
 &nbsp;
 
-Copyright (c) 2019, ingdevs
+Copyright (c) 2019-2020, ingdevs
 
 &nbsp;
 
