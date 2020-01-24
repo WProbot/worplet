@@ -7,6 +7,8 @@
 
 - VPS server with root access running Ubuntu 18.04 LTS
 - Registered domain with DNS pointing to VPS server
+- Works with 'localhost' also
+- Works with sever external IP also
 
 &nbsp;
 
