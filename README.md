@@ -1,8 +1,6 @@
 # Worplet - a WordPress droplet
 ### Get WordPress spinning on a VPS at warp speed
 
-&nbsp;
-
 ### Prerequisites
 
 - VPS server with root access running Ubuntu 18.04 LTS
@@ -10,13 +8,10 @@
 - Works with 'localhost' also
 - Works with sever external IP also
 
-&nbsp;
-
 ### Description
 
 - Shell script that allows for an easy setup of a Linux server with php, mysql, nginx, wordpress, domain and ssl. All you need to quick start your development and skip the server setup manual labor.
 
-&nbsp;
 
 ### Results
 
@@ -27,11 +22,9 @@
 - VPS server will setup the domain and install an SSL certificate
 - WordPress site files will be available in `/root/var/www/html/wordpress`
 
-&nbsp;
 
 ## How to use
 
-&nbsp;
 
 ### install git
 
@@ -68,11 +61,8 @@
 `sudo ./startup.sh`
 
 &nbsp;
-&nbsp;
 
 Copyright (c) 2019-2020, fountainpositive
-
-&nbsp;
 
 Published under GNU GENERAL PUBLIC LICENSE.
 More info: https://www.gnu.org/licenses/
