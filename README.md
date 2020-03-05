@@ -39,7 +39,7 @@
 
 ### clone repository
 
-`git clone https://github.com/ingdevs/worplet.git worplet`
+`git clone https://github.com/fountainpositive/worplet.git worplet`
 
 ### run
 
@@ -59,7 +59,7 @@
 
 ### get startup file
 
-`sudo wget https://raw.githubusercontent.com/ingdevs/worplet/master/startup.sh`
+`sudo wget https://raw.githubusercontent.com/fountainpositive/worplet/master/startup.sh`
 
 ### run
 
