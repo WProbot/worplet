@@ -12,7 +12,6 @@
 
 - Shell script that allows for an easy setup of a Linux server with php, mysql, nginx, wordpress, domain and ssl. All you need to quick start your development and skip the server setup manual labor.
 
-
 ### Results
 
 - VPS server will be running on latest WordPress installation
@@ -24,7 +23,6 @@
 
 
 ## How to use
-
 
 ### install git
 
@@ -40,11 +38,7 @@
 
 `sudo ./run.sh`
 
-&nbsp;
-
 ## Startup script for VM (IP only)
-
-&nbsp;
 
 ### install git
 
@@ -59,8 +53,6 @@
 `sudo chmod +x startup.sh` 
 
 `sudo ./startup.sh`
-
-&nbsp;
 
 Copyright (c) 2019-2020, fountainpositive
 
