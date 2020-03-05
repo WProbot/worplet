@@ -70,7 +70,7 @@
 &nbsp;
 &nbsp;
 
-Copyright (c) 2019-2020, ingdevs
+Copyright (c) 2019-2020, fountainpositive
 
 &nbsp;
 
